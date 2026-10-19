@@ -1,0 +1,6 @@
+numpy
+multiprocess
+Pillow
+matplotlib
+jupyter
+ipykernel
